@@ -2,8 +2,8 @@ body, html {
     height: 100%;
     margin: 0;
     overflow: hidden;
-    background-color: #3A506C; /* Light gray background */
-    color: #ffffff; /* AI Integrations brand blue for the text */
+    background-color: #1B2541; /* Light gray background */
+    color: #5Ac0BE; /* AI Integrations brand blue for the text */
     font-family: monospace;
   }
   
